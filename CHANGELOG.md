@@ -1,3 +1,7 @@
+# 1.2.6
+
+- Replaces the deprecated `package:flutter/material.dart` import with `package:flutter/widgets.dart`
+
 # 1.2.5
 
 - Updates minimum supported SDK version to Flutter 3.44/Dart 3.12.

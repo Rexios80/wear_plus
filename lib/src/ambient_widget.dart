@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:wear_plus/src/wear.dart';
 
 /// Ambient modes for a Wear device
